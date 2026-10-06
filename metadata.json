@@ -1,0 +1,6 @@
+{
+  "name": "CogniChess - Ajedrez y Estimulación Cognitiva",
+  "description": "Aplicación de ajedrez enfocada en la estimulación cognitiva, con 4 niveles de IA, modo de análisis, estadísticas detalladas, tutoriales interactivos y soporte en 9 idiomas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
